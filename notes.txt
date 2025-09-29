@@ -1,2 +1,5 @@
 Git is a powerful version control system.
+
 Branches allow us to develop features independently.
+Merging combines work from multiple branches.
+
